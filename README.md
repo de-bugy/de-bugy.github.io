@@ -1,2 +1,1 @@
-# de-bugy.github.io
-PUSSY BOYYYYYY
+# PUSSY BOY SHUT YO ASS UP
