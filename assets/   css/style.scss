@@ -5,7 +5,10 @@
 
 /* Replace Cayman header gradient with your banner */
 .page-header {
-  background: url("/banner.png") center/cover no-repeat !important;
+  background-image: url("/banner.png") !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
   color: white;
 }
 
@@ -14,4 +17,3 @@
 .project-tagline {
   text-shadow: 0 2px 10px rgba(0,0,0,0.7);
 }
-/* pussy boy
