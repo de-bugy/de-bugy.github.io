@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-/* Replace Cayman header gradient with your banner */
+/* Banner image */
 .page-header {
   background-image: url("/banner.png") !important;
   background-size: cover !important;
@@ -12,8 +12,14 @@
   color: white;
 }
 
-/* Make header text readable */
-.project-name,
+/* Big readable title */
+.project-name {
+  font-weight: 900 !important;
+  font-size: 3rem !important;
+  text-shadow: 0 4px 20px rgba(0,0,0,0.9) !important;
+}
+
+/* Remove subtitle completely */
 .project-tagline {
-  text-shadow: 0 2px 10px rgba(0,0,0,0.7);
+  display: none !important;
 }
