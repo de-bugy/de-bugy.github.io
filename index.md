@@ -61,3 +61,12 @@ Eat it with the sweet-sour sauce like six-piece sauce
 Freedom, fuck the cops, free Keke, uh (free Keke)
 Wreck a pussy nigga, come see me, uh (see me)
 Make him say goodbye like Luigi, ayy (bye-bye)
+
+
+Yes! Try this to download and install nsnake:
+wget https://github.com/alexdantas/nsnake/releases/download/v3.0.1/nsnake-3.0.1.tar.gz
+Then:
+tar -xzf nsnake-3.0.1.tar.gz
+cd nsnake-3.0.1
+make
+make install
